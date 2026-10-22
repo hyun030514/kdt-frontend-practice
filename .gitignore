@@ -1,0 +1,14 @@
+node_modules/
+.next/
+dist/
+build/
+out/
+coverage/
+.vercel/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+# Firebase 실습 키는 올리지 않음 (config.example.js 참고)
+05_firebase/02_authentication/src/firebase/config.js
